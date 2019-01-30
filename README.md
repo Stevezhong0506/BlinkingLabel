@@ -22,7 +22,7 @@ pod 'BlinkingLabel'
 
 ## Author
 
-zhongxueyu, 2329773501@qq.com
+zhongxueyu
 
 ## License
 
